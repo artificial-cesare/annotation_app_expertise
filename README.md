@@ -25,7 +25,7 @@ streamlit-annotation-app
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git clone https://github.com/artificial-cesare/annotation_app_expertise.git
    cd streamlit-annotation-app
    ```
 
