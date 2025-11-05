@@ -12,7 +12,7 @@ SPEECHES_FILE = DATA_DIR / "sampled_speeches.json"
 ANNOTATIONS_FILE = DATA_DIR / "annotations.csv"
 
 # TEST MODE: Set to True to only load 3 speeches for testing
-TEST_MODE = True
+TEST_MODE = False #True
 TEST_SPEECHES_COUNT = 3
 
 # ============================================================================
